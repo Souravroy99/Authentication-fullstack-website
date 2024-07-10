@@ -1,0 +1,16 @@
+.menu-list-item-container{
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    gap: 20px;
+}
+
+.trew-view-container{
+    background-color: rgb(11, 11, 208);
+    width: 300px;
+    height: 100vh;
+}
+
+.menu-ul-list-container{
+    list-style: none;
+}
